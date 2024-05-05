@@ -190,6 +190,6 @@ void help()
 void bemvindo()
 {
     cout<< "\033[1;32mOlá, bem vindo ao meu BASH \033[0m \n";
-    cout<< "\033[1;31mAluno:\033[0m Luiz Fernando Almeida Pinheiro \n\033[1;31mMatrícula:\033[0m 221021151 \nTrabalho realizado para SOR 2024.1! \n";
+    cout<< "\033[1;31mAluno:\033[0m Luiz \n\033[1;31mMatrícula:\033[0m \nTrabalho realizado para SOR 2024.1! \n";
     cout << "Insira o comando 'help' para descobrir mais sobre o BASH.\n";
 }
